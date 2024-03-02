@@ -20,7 +20,7 @@ text: 'What, then, shall we say in response to these things? If God is for us, w
 author: 'Paul', 
 },
 {
-text: 'Be strong and courageous. Do not be afraid or terrified because of them, or the Lord your God goes with you; he will never leave you nor forsake you.',
+text: 'Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.',
 author: 'Moses', 
 },
 {
@@ -33,7 +33,7 @@ author: 'John',
 },
 {
 text: ' Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.',
-author: 'Isaiah', 
+author: 'God', 
 },
 {
 text: 'But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.',
@@ -101,7 +101,7 @@ author: 'God',
 },
 {
 text: 'Come to me, all you who are weary and burdened, and I will give you rest.',
-author: 'Matthew', 
+author: 'Jesus', 
 },
 {
 text: 'Jesus replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”',
@@ -111,4 +111,57 @@ author: 'Matthew',
 {
 text: 'The name of the LORD is a fortified tower; the righteous run to it and are safe.', 
 author: 'Solomon',
-} ]
+} 
+{
+text: ' May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.',
+author: 'Paul', 
+},
+{
+  text: 'The grass withers and the flowers fall, but the word of our God endures forever.',
+  author: 'Isaiah',
+  },
+
+{
+text: 'Therefore encourage one another and build each other up, just as in fact you are doing.',
+author: 'Paul', 
+},
+{
+text: 'I keep my eyes always on the LORD. With him at my right hand, I will not be shaken.',
+author: 'Solomon', 
+},
+{
+text: 'Even youths grow tired and weary, and young men stumble and fall but those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. ',
+author: 'Isaiah', 
+},
+{
+text: 'Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.',
+author: 'Paul', 
+},
+{
+text: 'In the world you will have tribulation. But take heart; I have overcome the world."',
+author: 'Jesus', 
+},
+{
+text: 'I sought the LORD, and He answered me and delivered me from all my fears. Those who look to Him are radiant, and their faces shall never be ashamed. Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in Him!',
+author: 'King David', 
+},
+{
+text: 'Humble yourselves, therefore, under the mighty hand of God so that at the proper time He may exalt you, casting all your anxieties on Him, because He cares for you.',
+author: 'Peter', 
+},
+{
+text: 'If my people who are called by My name humble themselves, and pray and seek My face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land',
+author: 'God', 
+},
+{
+text: 'So do not worry, saying, What shall we eat? or What shall we drink? or What shall we wear? For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first His kingdom and His righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.',
+author: 'Jesus', 
+},
+{
+text: 'For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.',
+author: 'Paul', 
+},
+{
+text: 'And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.',
+author: 'Paul', 
+},]
